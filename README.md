@@ -8,7 +8,7 @@ git clone `git@github.com:sai-sree-reddy/fetch-receipt-processor-challenge.git`
 1. Move to **receipt-processor** folder
     - cd receipt-processor
 
-3. Use the command `docker-compose up` to start the application.
+3. Use the command `docker-compose up` to start the application.(Make sure Docker daemon is running)
 
 4. Test the endpoints:
 
